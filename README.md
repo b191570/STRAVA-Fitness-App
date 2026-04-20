@@ -84,7 +84,7 @@ The analysis follows the **UBM Rule**:
 - Weight & BMI data almost missing → not useful  
 - Some duplicated/overlapping columns from merging  
 
-## 📊 Visualizations Created
+##  Visualizations Created
 
 - Bar Charts (Steps, Distance, Sleep Records)  
 - Pie Charts (Step Distribution)  
@@ -129,7 +129,7 @@ The analysis follows the **UBM Rule**:
 - **Plotly**
 - **Scikit-learn**
 
-## 🙌 Final Note
+## Final Note
 
 This project demonstrates how data-driven insights can help fitness platforms like Strava:
 - Improve user engagement  
